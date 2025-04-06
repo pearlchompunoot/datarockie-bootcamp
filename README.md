@@ -1,2 +1,2 @@
-# datarockie-bootcamp
-My projects from datarockie bootcamp
+# Datarockie Bootcamp projects
+These are my projects from Datarockie bootcamp.
